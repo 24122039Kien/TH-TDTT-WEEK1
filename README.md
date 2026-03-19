@@ -17,9 +17,13 @@
 -24122051 Nguyễn Đức Tài
 # Chức Năng chính:
 ● tạo công việc cần làm,
+
 ● gán người phụ trách,
+
 ● đặt hạn chót,
+
 ● đánh dấu trạng thái hoàn thành,
+
 ● xem danh sách công việc theo cá nhân hoặc theo nhóm.
 # Link Notion: https://www.notion.so/H-l-328cd843ddb68074b0e5d967d6c9bf97
 
