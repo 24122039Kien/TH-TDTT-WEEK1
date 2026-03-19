@@ -4,11 +4,16 @@
 - Giảm tình trạng quên deadline, học dồn
 - Nâng cao hiệu suất và tính kỷ luật cá nhân
 # thành viên:
--24122029 Nguyễn Cao Bản (scrum master)
--24122030 Phạm Hoàng Hải Đăng
+-24122029 Nguyễn Cao Bản (scrum master)  
+
+-24122030 Phạm Hoàng Hải Đăng  
+
 -24122035 Phan Nguyễn Gia Huy
+
 -24122039 Nguyễn Đỗ Bảo Kiên
+
 -24122046 Trần Đình Tấn Phát
+
 -24122051 Nguyễn Đức Tài
 # Chức Năng chính:
 ● tạo công việc cần làm,
